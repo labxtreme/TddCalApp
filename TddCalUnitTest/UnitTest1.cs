@@ -15,7 +15,7 @@ namespace TddCalUnitTest
             int num2 = 2;
             int result;
             result = testcalculator.Add(num1, num2);
-            Assert.AreEqual(4, result, "Testing two integers 3 and 2");
+            Assert.AreEqual(5, result, "Testing two integers 3 and 2");
         }
     }
 }
