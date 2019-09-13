@@ -1,0 +1,6 @@
+C:\Users\laksh\Downloads\GitHub\TddCalRep\tddcalapp\tddcalapp.library\bin\Debug\tddcalapp.library.dll
+C:\Users\laksh\Downloads\GitHub\TddCalRep\tddcalapp\tddcalapp.library\bin\Debug\tddcalapp.library.pdb
+C:\Users\laksh\Downloads\GitHub\TddCalRep\tddcalapp\tddcalapp.library\obj\Debug\tddcalapp.library.csprojAssemblyReference.cache
+C:\Users\laksh\Downloads\GitHub\TddCalRep\tddcalapp\tddcalapp.library\obj\Debug\tddcalapp.library.csproj.CoreCompileInputs.cache
+C:\Users\laksh\Downloads\GitHub\TddCalRep\tddcalapp\tddcalapp.library\obj\Debug\tddcalapp.library.dll
+C:\Users\laksh\Downloads\GitHub\TddCalRep\tddcalapp\tddcalapp.library\obj\Debug\tddcalapp.library.pdb

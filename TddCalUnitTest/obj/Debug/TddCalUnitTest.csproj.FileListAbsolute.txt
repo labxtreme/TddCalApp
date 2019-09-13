@@ -1,0 +1,16 @@
+C:\Users\laksh\Downloads\GitHub\TddCalRep\tddcalapp\TddCalUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\laksh\Downloads\GitHub\TddCalRep\tddcalapp\TddCalUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\laksh\Downloads\GitHub\TddCalRep\tddcalapp\TddCalUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\laksh\Downloads\GitHub\TddCalRep\tddcalapp\TddCalUnitTest\bin\Debug\TddCalUnitTest.dll
+C:\Users\laksh\Downloads\GitHub\TddCalRep\tddcalapp\TddCalUnitTest\bin\Debug\TddCalUnitTest.pdb
+C:\Users\laksh\Downloads\GitHub\TddCalRep\tddcalapp\TddCalUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\laksh\Downloads\GitHub\TddCalRep\tddcalapp\TddCalUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\laksh\Downloads\GitHub\TddCalRep\tddcalapp\TddCalUnitTest\bin\Debug\tddcalapp.library.dll
+C:\Users\laksh\Downloads\GitHub\TddCalRep\tddcalapp\TddCalUnitTest\bin\Debug\tddcalapp.library.pdb
+C:\Users\laksh\Downloads\GitHub\TddCalRep\tddcalapp\TddCalUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\laksh\Downloads\GitHub\TddCalRep\tddcalapp\TddCalUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\laksh\Downloads\GitHub\TddCalRep\tddcalapp\TddCalUnitTest\obj\Debug\TddCalUnitTest.csprojAssemblyReference.cache
+C:\Users\laksh\Downloads\GitHub\TddCalRep\tddcalapp\TddCalUnitTest\obj\Debug\TddCalUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\laksh\Downloads\GitHub\TddCalRep\tddcalapp\TddCalUnitTest\obj\Debug\TddCalUnitTest.csproj.CopyComplete
+C:\Users\laksh\Downloads\GitHub\TddCalRep\tddcalapp\TddCalUnitTest\obj\Debug\TddCalUnitTest.dll
+C:\Users\laksh\Downloads\GitHub\TddCalRep\tddcalapp\TddCalUnitTest\obj\Debug\TddCalUnitTest.pdb

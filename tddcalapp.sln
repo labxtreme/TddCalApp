@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tddcalapp", "tddcalapp\tddc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tddcalapp.library", "tddcalapp.library\tddcalapp.library.csproj", "{0F14F570-6402-4055-AE4F-1644D0A2281B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TddCalUnitTest", "TddCalUnitTest\TddCalUnitTest.csproj", "{9FC50B7D-FD74-48FA-8FD5-820843008376}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0F14F570-6402-4055-AE4F-1644D0A2281B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F14F570-6402-4055-AE4F-1644D0A2281B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F14F570-6402-4055-AE4F-1644D0A2281B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC50B7D-FD74-48FA-8FD5-820843008376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC50B7D-FD74-48FA-8FD5-820843008376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC50B7D-FD74-48FA-8FD5-820843008376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC50B7D-FD74-48FA-8FD5-820843008376}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
